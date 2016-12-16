@@ -1,0 +1,24 @@
+{
+  "name": "6ees6ees6ees",
+  "version": "0.0.1",
+  "homepage": "https://github.com/reactorcore/6ees6ees6ees",
+  "description": "Fun with ES6 classes (also bees)",
+  "main": "test/index.html",
+  "authors": [
+    "Hack Reactor"
+  ],
+  "license": "COPYRIGHT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2"
+  }
+}
